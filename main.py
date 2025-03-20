@@ -13,3 +13,5 @@ def division(x,y):
  def add(x,y):
     return x+y
 
+def percentage(x,y):
+    return x/y*100
